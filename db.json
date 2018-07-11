@@ -1,21 +1,25 @@
 
 {
-  "posts": [
+  "profiles": [
     {
       "id": 1,
-      "name": "Ratnabh"
+      "name": "Ratnabh",
+      "age":20
     },
     {
       "id":2,
-      "name":"shivam"
+      "name":"shivam",
+      "age":21
     },
     {
       "id":3,
-      "name":"Sandeep"
+      "name":"Sandeep",
+      "age":21
     },
     {
       "id":4,
-      "name":"sameer"
+      "name":"sameer",
+      "age":27
     }
   ]
 } 
